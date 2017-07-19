@@ -1,0 +1,19 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+    text-decoration: inherit;
+}
+
+img {
+    display: inline-block;
+    
+}
+
+div {
+    column-count: 3;
+    font-size: 20px
+}
