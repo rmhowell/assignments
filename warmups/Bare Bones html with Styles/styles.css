@@ -3,13 +3,13 @@ body {
 }
 
 h1   {
-    color: salmon; 
+    color: rgb(255, 198, 192); 
     font-family: Courier; 
     font-size: 300%;
 } 
 
 p    {
-    color: teal; 
+    color: rgba(0, 128, 128, 0.64); 
     font-family: sans-serif; 
     font-size: 125%;
-}
+} 
