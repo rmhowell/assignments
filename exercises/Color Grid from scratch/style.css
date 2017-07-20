@@ -1,0 +1,49 @@
+{
+    box-sizing: border-box; 
+    font-size: 0px;
+}
+
+#lightPink {
+    margin: auto;
+    height: 190px;
+    background-color: #F5C6D6;
+    border: 5px white solid;
+    display: inline-block;
+    width: 99%;
+}
+
+.darkPink {
+    margin: auto;
+    height: 190px;
+    display: inline-block;
+    width: 24%;
+    border: 5px white solid;
+    background-color: #EE2E84;
+}
+
+.blue {
+    margin: auto;
+    height: 190px;
+    background-color: #85CFD8;
+    display: inline-block;
+    width: 49%;
+    border: 5px white solid;
+}
+
+#green {
+    margin: auto;
+    height: 190px;
+    background-color: #8DC63F;
+    display: inline-block;
+    width: 74%;
+    border: 5px white solid;
+}
+
+#orange {
+    margin: auto;
+    height: 190px;
+    background-color: #E76E34;
+    display: inline-block;
+    width: 24%;
+    border: 5px white solid;
+}
