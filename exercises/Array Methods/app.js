@@ -37,6 +37,8 @@ food.reverse();
 console.log("food: ", food);
 
 
-food.toString();
-console.log("food: ", food);
+var newFood = food.toString();
+console.log("food: ", newFood);
+
+
 
