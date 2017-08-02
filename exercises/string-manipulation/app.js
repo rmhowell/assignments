@@ -17,6 +17,8 @@ var bio = readline.question("Tell me more about yourself.")
 if (bio.length > 20) {
     var halfLength = bio.length / 2
     console.log("The info you gave me was " + bio.length + " long. Here's what I remember. " + bio.slice(0, halfLength));
+} else {
+    console.log("Here's what I remember. " + bio);
 }
 
 var returnMessage = readline.question("Would you like me to start from somewhere else? Choose a number from the range [0-" + bio.length + "]")
