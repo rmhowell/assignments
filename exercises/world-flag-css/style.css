@@ -1,0 +1,66 @@
+.background {
+    background-color: blue;
+    width: 700px;
+    height: 405px;
+    position: relative;
+    
+}
+
+.stripe1 {
+    background-color: white;
+    position: absolute;
+    left: 0;
+    top: 45px;
+    width: 700px;
+    height: 45px;
+}
+
+.stripe2 {
+    background-color: white;
+    position: absolute;
+    left: 0;
+    top: 135px;
+    width: 700px;
+    height: 45px;
+}
+
+.stripe3 {
+    background-color: white;
+    position: absolute;
+    left: 0;
+    top: 225px;
+    width: 700px;
+    height: 45px;
+}
+
+.stripe4 {
+    background-color: white;
+    position: absolute;
+    left: 0;
+    top: 315px;
+    width: 700px;
+    height: 45px;
+}
+
+.square {
+    background-color: blue;
+    position: absolute;
+    width: 225px;
+    height: 225px;
+}
+
+.horizontal {
+    background-color: white;
+    position: absolute;
+    top: 90px;
+    width: 100%;
+    height: 45px;
+}
+
+.vertical {
+    background-color: white;
+    position: absolute;
+    right: 40%;
+    width: 45px;
+    height: 100%;
+}
