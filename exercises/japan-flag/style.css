@@ -1,0 +1,19 @@
+.background {
+    background-color: white;
+    position: relative;
+    border: 1px lightgrey solid;
+    height: 405px;
+    width: 700px;
+}
+
+.circle {
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    position: absolute;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    height: 275px;
+    width: 275px;
+}
