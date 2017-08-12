@@ -1,0 +1,24 @@
+.background {
+    background-color: white;
+    height: 405px;
+    width: 700px;
+    position: relative;
+    border: 1px lightgrey solid;
+}
+
+.horizontal {
+    background-color: mediumblue;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    bottom: 50%;
+    transform: translateY(50%);
+}
+
+.vertical {
+    background-color: mediumblue;
+    height: 100%;
+    width: 100px;
+    position: absolute;
+    left: 30%;
+}
