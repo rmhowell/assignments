@@ -1,0 +1,125 @@
+.body {
+    background: #36D1DC;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #5B86E5, #36D1DC);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #5B86E5, #36D1DC);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-position: center;
+}
+
+.title {
+    color: red;
+    text-align: center;
+    font-size: 150px;
+    font-family: 'Faster One', cursive;
+    margin: 70px;
+    padding-bottom: 80px;
+}
+
+.name {
+    color: red;
+    font-size: 40px;
+    font-family: 'Bungee', cursive;
+    text-align: center;
+}
+
+.name1 {
+    color: red;
+    font-size: 45px;
+    font-family: 'Bungee', cursive;
+    float: right;
+    padding-right: 60px;
+    padding-left: 50px;
+}
+
+.section {
+    color: red;
+    font-family: 'Bungee', cursive;
+}
+
+.section2 {
+    color: red;
+    font-family: 'Bungee', cursive;
+    float: right;
+    padding-right: 230px;
+}
+
+.badguys {
+    margin-left: 60px;
+    padding: 25px;
+    height: 225px;
+}
+
+.foot {
+    color: gold;
+    font-family: 'Bungee', cursive;
+    font-size: 19px
+}
+
+.price {
+    color: yellow;
+    display: inline-block;
+    padding: 35px;
+    font-size: 92px;
+    font-family: 'Press Start 2P', cursive;
+    margin: 103px -34px 10px 10px;
+}
+
+.coin {
+    display: inline-block;
+    width: 80px;
+    padding: -6px;
+    padding: 15px 10px 5px 5px;
+    margin-bottom: 91px;
+}
+
+.coin2 {
+    display: inline;
+    width: 80px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.input {
+    width: 5px;
+    margin-top: 185px;
+    margin-left: 15px;
+}
+
+.input1 {
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.money {
+    color: gold;
+    font-size: 70px;
+    font-family: 'Bungee', cursive;
+    padding-top: 30px
+}
+
+.money1 {
+    color: gold;
+    font-size: 70px;
+    font-family: 'Bungee', cursive;
+    float: right;
+}
+
+.btn-danger {
+    margin-top: 180px;
+    font-family: 'Bungee', cursive;
+}
+
+.grand {
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+    mario {
+        background-color: cyan;
+    }
+}
